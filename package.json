@@ -1,6 +1,6 @@
 {
-  "name": "react-hotkeys",
-  "version": "2.0.0",
+  "name": "@ajaythomas123/react-hotkeys",
+  "version": "2.0.2",
   "description": "A declarative library for handling hotkeys and focus within a React application",
   "main": "index",
   "module": "index.es",
@@ -96,11 +96,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greena13/react-hotkeys.git"
+    "url": "git+https://github.com/ajaythomas123/react-hotkeys.git"
   },
-  "homepage": "https://github.com/greena13/react-hotkeys",
+  "homepage": "https://github.com/ajaythomas123/react-hotkeys",
   "bugs": {
-    "url": "https://github.com/greena13/react-hotkeys/issues"
+    "url": "https://github.com/ajaythomas123/react-hotkeys/issues"
   },
   "globalExport": "ReactHotkeys",
   "typings": "./index.d.ts"
